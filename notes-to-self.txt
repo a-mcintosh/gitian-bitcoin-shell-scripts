@@ -1,0 +1,18 @@
+notes to self
+
+
+https://www.kernel.org/pub/software/scm/git/docs/git-init.html
+
+local repository
+
+git init .
+git add .
+git commit -a -m "A shell script to create a VirtualBox machine."
+
+make 
+  .gitignore
+  .gitattributes
+
+
+
+
